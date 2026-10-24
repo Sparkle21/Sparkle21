@@ -1,6 +1,6 @@
 ### Hi, I'm Sparkle21 👋
 
-关注 **LLM 推理优化 / AI Infra**：推理引擎调度、Triton kernel、投机解码、量化。
+关注 **Agent 开发 / LLM 推理优化 / AI Infra**：推理引擎调度、Triton kernel、投机解码、量化。
 
 #### 📌 项目
 
